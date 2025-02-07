@@ -1,0 +1,3 @@
+2025-02-07 13:08:15 - Server started on port 5000
+2025-02-07 13:08:24 - New client connected: /127.0.0.1:57274
+2025-02-07 13:08:34 - Received from /127.0.0.1:57274: Send file
