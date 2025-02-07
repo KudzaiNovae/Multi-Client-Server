@@ -1,3 +1,9 @@
 2025-02-07 13:08:15 - Server started on port 5000
 2025-02-07 13:08:24 - New client connected: /127.0.0.1:57274
 2025-02-07 13:08:34 - Received from /127.0.0.1:57274: Send file
+2025-02-07 13:15:02 - New client connected: /127.0.0.1:52525
+2025-02-07 13:15:19 - Received from /127.0.0.1:52525: Did you know? The first email ever sent was in 1971. Over to you!
+2025-02-07 13:16:02 - New client connected: /127.0.0.1:52556
+2025-02-07 13:16:05 - Received from /127.0.0.1:52556: Goodbye for now, but our connection will live on in the logs!
+2025-02-07 13:16:19 - New client connected: /127.0.0.1:52565
+2025-02-07 13:16:23 - Received from /127.0.0.1:52565: Signing off. See you in the next session, Server!
